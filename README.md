@@ -60,6 +60,10 @@ You can also add Names of the contact you want to send message in the Contacts.t
 The contact name should match exactly with the name saved in your contacts.
 
 # Steps to send messages automatically
-      1. 
-      2. 
+      1. You have to create an xlsx file containing the name of message receiver.
+      2. Run "python whatsapp.py" in terminal.
+      3. Let WhatsApp get opened in Chrome automatiocally.
+      4. Log in to the prompted WhatsApp Web.
+      5. Let the tool do it's job :)
+      
       
