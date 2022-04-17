@@ -58,3 +58,8 @@ Step 7: After Scanning the QR code, you will be asked to press Enter Key in the 
 
 You can also add Names of the contact you want to send message in the Contacts.txt file.
 The contact name should match exactly with the name saved in your contacts.
+
+# Steps to send messages automatically
+      1. 
+      2. 
+      
