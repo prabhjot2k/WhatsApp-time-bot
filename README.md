@@ -23,7 +23,7 @@ Selenium has the support of some of the largest browser vendors who have taken (
   
 ### Requirements
 
-* [Python 3+](https://www.python.org/download/releases/3.0/?) - Pyhton 3.6+ verion
+* [Python 3+](https://www.python.org/download/releases/3.0/?) - Python 3.6+ verion
 * [Selenium](https://github.com/SeleniumHQ/selenium) - Selenium for web automation
 * [openpyxl](https://pypi.org/project/openpyxl/) - To read xls files
 
@@ -44,7 +44,7 @@ Step 3: Extract the downloaded driver onto a folder
 Step 4: Set path variable to the environment. Paste this command to the terminal
 ```sh
 $ export PATH=$PATH:/home/path/to/the/driver/folder/
-Eg: $ export PATH=$PATH:/home/harshit/Desktop/WhatsAppBot
+Eg: $ export PATH=$PATH:/home/prabhjot/Desktop/WhatsAppBot
 ```
 Step 5: run whatsapp.py using Python3
 ```sh
